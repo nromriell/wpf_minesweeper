@@ -1,0 +1,15 @@
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\bin\Release\MinesweeperVisual.exe.config
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\bin\Release\MinesweeperVisual.exe
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\bin\Release\MinesweeperVisual.pdb
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Release\MainWindow.g.cs
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Release\App.g.cs
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Release\MinesweeperVisual_MarkupCompile.cache
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Release\MinesweeperVisual_MarkupCompile.lref
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Release\MainWindow.baml
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Release\MinesweeperVisual.g.resources
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Release\MinesweeperVisual.Properties.Resources.resources
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Release\MinesweeperVisual.csproj.GenerateResource.Cache
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Release\MinesweeperVisual.exe
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Release\MinesweeperVisual.pdb
+C:\Users\nate\documents\visual studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\bin\Release\System.Data.SQLite.dll
+C:\Users\nate\documents\visual studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\bin\Release\System.Data.SQLite.xml

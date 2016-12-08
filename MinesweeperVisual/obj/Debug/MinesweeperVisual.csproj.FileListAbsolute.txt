@@ -1,0 +1,32 @@
+c:\users\nate\documents\visual studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\bin\Debug\MinesweeperVisual.exe.config
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Debug\MinesweeperVisual.csprojResolveAssemblyReference.cache
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Debug\MainWindow.g.cs
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Debug\App.g.cs
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Debug\MinesweeperVisual_MarkupCompile.cache
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Debug\MinesweeperVisual_MarkupCompile.lref
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\bin\Debug\MinesweeperVisual.exe
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\bin\Debug\MinesweeperVisual.pdb
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Debug\MainWindow.baml
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Debug\MinesweeperVisual.g.resources
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Debug\MinesweeperVisual.Properties.Resources.resources
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Debug\MinesweeperVisual.csproj.GenerateResource.Cache
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Debug\MinesweeperVisual.exe
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\obj\Debug\MinesweeperVisual.pdb
+C:\Users\nate\documents\visual studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\bin\Debug\System.Data.SQLite.dll
+C:\Users\nate\documents\visual studio 2015\Projects\MinesweeperVisual\MinesweeperVisual\bin\Debug\System.Data.SQLite.xml
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\bin\Debug\MinesweeperVisual.exe.config
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\obj\Debug\MinesweeperVisual.exe
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\obj\Debug\MinesweeperVisual.pdb
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\obj\Debug\MinesweeperVisual.csprojResolveAssemblyReference.cache
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\obj\Debug\MainWindow.g.cs
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\obj\Debug\App.g.cs
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\obj\Debug\MinesweeperVisual_MarkupCompile.cache
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\obj\Debug\MinesweeperVisual_MarkupCompile.lref
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\bin\Debug\MinesweeperVisual.exe
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\bin\Debug\MinesweeperVisual.pdb
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\bin\Debug\System.Data.SQLite.dll
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\bin\Debug\System.Data.SQLite.xml
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\obj\Debug\MainWindow.baml
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\obj\Debug\MinesweeperVisual.g.resources
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\obj\Debug\MinesweeperVisual.Properties.Resources.resources
+C:\Users\nate\Documents\Visual Studio 2015\Projects\MinesweeperVisual - Copy\MinesweeperVisual\obj\Debug\MinesweeperVisual.csproj.GenerateResource.Cache

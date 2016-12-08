@@ -1,0 +1,36 @@
+﻿<Window x:Class="MinesweeperVisualGit.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MinesweeperVisualGit"
+        mc:Ignorable="d"
+        Title="Nathan Romriell Minesweeper" Height="500" Width="525">
+    <Canvas>
+        <Canvas Name="resultsCanvas" Panel.ZIndex="99999" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock FontSize="24" Foreground="Red" Name="resultsLabel">You Lose</TextBlock>
+        </Canvas>
+        <StackPanel Name="mainArea" HorizontalAlignment="Stretch" VerticalAlignment="Top">
+            <StackPanel Background="Black">
+            <UniformGrid Rows="1" HorizontalAlignment="Stretch" VerticalAlignment="Center" Background="Black">
+                <Button HorizontalAlignment="Left" VerticalAlignment="Center" Name="menubutton" Height="30" Width="60">Menu</Button>
+                <TextBlock Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" Name="difficultylabel">Difficulty</TextBlock>
+            </UniformGrid>
+        </StackPanel>
+        <Canvas Panel.ZIndex="999999" Visibility="Hidden" Name="gamemenu">
+            <UniformGrid Columns="1" Rows="3" Width="150" Height="133" Background="Gray" HorizontalAlignment="Left">
+                <Button Name="newEGameButton" Background="LightGray">New Easy Game</Button>
+                <Button Name="newMGameButton" Background="LightGray">New Medium Game</Button>
+                <Button Name="newHGameButton" Background="LightGray">New Hard Game</Button>
+        </UniformGrid>
+        </Canvas>
+        <StackPanel Name="topbar" HorizontalAlignment="Stretch" Height="50">
+            <UniformGrid Rows="1" HorizontalAlignment="Stretch" VerticalAlignment="Center" Background="Black">
+                <TextBlock HorizontalAlignment="Stretch" VerticalAlignment="Center" Name="minesleftlabel" FontSize="40" TextAlignment="Center" Background="Black" Foreground="Red">10</TextBlock>
+                <Button HorizontalAlignment="Center" VerticalAlignment="Center" Name="gamebutton" Height="50">Game Button</Button>
+                    <TextBlock HorizontalAlignment="Stretch" VerticalAlignment="Center" Name="timelabel" FontSize="40" TextAlignment="Center" Background="Black" Foreground="Red">0</TextBlock>
+            </UniformGrid>
+        </StackPanel>
+    </StackPanel>
+    </Canvas>
+</Window>
